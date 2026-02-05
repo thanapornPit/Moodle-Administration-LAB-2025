@@ -240,6 +240,7 @@ User Request
 
 ### 3.1 System Architecture Diagram
 
+![System Architecture](images/architecture.png)
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                        Host Machine                             │
