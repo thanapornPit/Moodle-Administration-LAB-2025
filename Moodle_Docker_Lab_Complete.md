@@ -329,8 +329,10 @@ docker pull mariadb:latest
 ```
 
 **บันทึกผลการทดลอง 1:**
+<img width="768" height="342" alt="image" src="https://github.com/user-attachments/assets/42fa44d0-450c-452a-ad79-6eee2b8c455e" />
 
-<img width="771" height="342" alt="image" src="https://github.com/user-attachments/assets/83b64540-75da-45a8-89a3-3f6ee2ae0866" />
+
+
 
 
 #### 2.2 รัน Docker Compose
@@ -353,9 +355,8 @@ Creating moodle_app ... done
 ```
 
 **บันทึกผลการทดลอง 2:**
-```bash
- รูปผลการรัน docker-compose ที่สมบูรณ์ 
-```
+
+<img width="771" height="342" alt="image" src="https://github.com/user-attachments/assets/83b64540-75da-45a8-89a3-3f6ee2ae0866" />
 
 #### 2.3 ตรวจสอบสถานะ Containers
 
